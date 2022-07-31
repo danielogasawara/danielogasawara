@@ -9,13 +9,13 @@
 ## 📫 Formas de contato
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:danielhiro13@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:danielhiro13@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/daniel-riroche-pereira-ogasawara-2a7633242" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-riroche-pereira-ogasawara-2a7633242" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/danielogasawara" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/danielogasawara"/></a>
 </p> 
 
