@@ -2,7 +2,7 @@
 
 > Técnico em informática, apaixonado pela cultura japonesa e tecnologia, busco sempre aprender e aprimorar meu conhecimento na área de programação.
 
-👨‍💻 Atualmente estudando Node.JS, React.JS e Rust.
+👨‍💻 Atualmente estudando Node.JS, React.JS e Next.JS.
 
 ## 🚀 Minhas Skills
 <div style="display: flex;">
