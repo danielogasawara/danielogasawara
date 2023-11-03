@@ -2,16 +2,15 @@
 
 > Técnico em informática, apaixonado pela cultura japonesa e tecnologia, busco sempre aprender e aprimorar meu conhecimento na área de programação.
 
-👨‍💻 Atualmente estudando Node.JS, React.JS e Next.JS.
+👨‍💻 Atualmente estudando Node.js.
 
 ## 🚀 Minhas Skills
-<div style="display: flex;">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node JS"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
-</div>
+![My skills](https://skillicons.dev/icons?i=js,ts,mysql,mongodb,html,css,nodejs,react,nestjs,express,tailwind,bootstrap,sass,prisma,bots)
+### Ferramentas
+![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,git,github,ps,ai)
+#### Hobby 
+![Studying](https://skillicons.dev/icons?i=py,rust,php,electron,docker,firebase,sqlite,xd)
+
 
 ## 📫 Formas de contato
 
